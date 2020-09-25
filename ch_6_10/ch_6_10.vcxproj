@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B80D9A06-DB40-4AB0-8C3C-6F1CC1DA4531}</ProjectGuid>
+    <ProjectGuid>{004E6D36-AADA-48D8-A389-5382D037E24D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>LearnC</RootNamespace>
+    <RootNamespace>ch610</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
-    <ProjectName>ch_2_1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -144,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ch_2_1.cpp" />
+    <ClCompile Include="ch_6_10.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
